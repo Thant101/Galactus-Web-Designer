@@ -1,0 +1,103 @@
+﻿body {
+    font-family: Biotif-Regular,Helvetica Neue,Helvetica,Arial,sans-serif;
+    background: #fefaf6;
+    overscroll-behavior: none;
+    overflow-x: hidden;
+}
+h3 {
+    color: #232320;
+    font-family: Bogart,Recoleta,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 1.5em;
+    letter-spacing: -1.5px;
+    line-height: 110%;
+    margin: 0;
+    transition: all .2s ease-in-out;
+}
+h2 {
+    color: #232320;
+    font-family: Bogart,Recoleta,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 2.5em;
+    letter-spacing: -1.5px;
+    line-height: 110%;
+    margin: 0;
+    transition: all .2s ease-in-out;
+}
+h1 {
+    color: #232320;
+    font-family: Bogart,Recoleta,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 3.5em;
+    letter-spacing: -1.5px;
+    line-height: 110%;
+    margin: 0;
+    transition: all .2s ease-in-out;
+}
+p {
+    color: #656270;
+    font-size: 1.1em;
+    line-height: 1.7;
+    margin: 1em 0 0;
+    transition: all .2s ease-in-out;
+}
+tr.spaceUpper>td {
+  padding-top: 10em;
+  padding-left: 1em;
+  padding-bottom: 10em;
+}
+tr.who-am-i>td {
+  padding-top: 1em;
+}
+tr.bio>td {
+  padding-bottom: 10em;
+}
+td.normalInfo{
+  background-color: #F6F5F5;
+  padding-left: 1em;
+  padding-bottom: 1em;
+}
+tr.pick>td {
+  background-color: #93B5C6;
+  border-radius: 10px;
+}
+tr.fee>td {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+table.normal {
+  background-color: white;
+  border-radius: 25px;
+}
+tr.basic>td {
+  padding-bottom: 1em;
+}
+img.gif{
+  border-radius: 30px;
+}
+tr.contactMe>td{
+  padding-top: 10em;
+}
+tr.contactInfo>td {
+  padding-bottom: 2em;
+}
+input[type=email] {
+  border:none;
+  background-color: #fefaf6;
+  border-bottom: 2px solid grey;
+}
+tr.box>td {
+  padding-bottom: 2em;
+}
+a.button {
+  display:inline-block;
+  padding: 0.7em 1.7em;
+  margin: 0 0.3em 0.3em 0;
+  border-radius: 25px;
+  box-sizing: border-box;
+  text-decoration: none;
+  color: black;
+  background-color: #CDF0EA;
+  text-align: center;
+  position: relative;
+}
+tr.lastSpace>td {
+  padding-bottom: 5em;
+}
